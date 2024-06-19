@@ -1,4 +1,4 @@
-# Certificates Repository 📜🎓
+# Certificates 📜🎓
 
 **A comprehensive collection of my certifications from various courses and accomplishments in programming, AI, web development, and more.**
 
@@ -13,7 +13,7 @@
 
 ## Introduction
 
-Welcome to my **Certificates Repository**! This repository serves as a consolidated location for all my professional certifications, showcasing my accomplishments and the skills I've acquired over time. This collection includes certificates from various reputable platforms and institutions.
+Welcome to my **Certificates**! This repository serves as a consolidated location for all my professional certifications, showcasing my accomplishments and the skills I've acquired over time. This collection includes certificates from various reputable platforms and institutions.
 
 ## How to Use
 
